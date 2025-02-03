@@ -1,7 +1,8 @@
 # 🚀 Dynamic Pricing in E-Commerce using Reinforcement Learning
 **Optimizing Prices in Real-Time with AI**
 
-![Reinforcement Learning](https://upload.wikimedia.org/wikipedia/commons/3/3a/Reinforcement_Learning_Diagram.svg)
+![Reinforcement Learning](https://github.com/user-attachments/assets/09d53018-9835-4aee-931d-d03aadfa71d8)
+
 
 ## 🌟 Why This Project Matters?
 Pricing strategies can make or break an e-commerce business. Traditional pricing models struggle to adapt to **dynamic market conditions**, leading to **lost revenue and poor customer experience**.
