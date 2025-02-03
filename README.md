@@ -43,11 +43,6 @@ This project **revolutionizes pricing strategies** by leveraging **Reinforcement
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🚀 Get Started
 Clone the repository and run the notebook:
 
